@@ -1,1 +1,3 @@
-Lua drawing program w/ Love2d. Planning to implement sound
+Lua drawing program w/ Love2d. As it is not finished it requires the LÖVE framework to run. My other TIC-80 project is frankly more fun than this but they are definitley different. This is on the backburner/barely started at the moment because I realized that I enjoy TIC-80 as a lua engine more. I'll finish this someday.... maybe....
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
