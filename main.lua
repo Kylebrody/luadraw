@@ -20,7 +20,7 @@ function love.draw()
     local x = love.mouse.getX()
     local y = love.mouse.getY()
     
-    love.graphics.setColor(redR, redG, redB)
+    	love.graphics.setColor(redR, redG, redB)
 	love.graphics.circle("fill", x,y, 20)
 
 	love.graphics.setColor(greenR, greenG, greenB)
@@ -30,7 +30,7 @@ function love.draw()
 	love.graphics.setColor(blueR, blueG, blueB)
 	love.graphics.circle("fill", x - 60,y - 80, 20)
 
-    love.graphics.setColor(redR, redG, redB)
+    	love.graphics.setColor(redR, redG, redB)
 	love.graphics.circle("fill", x - 100,y - 120, 20)
 
 	love.graphics.setColor(greenR, greenG, greenB)
